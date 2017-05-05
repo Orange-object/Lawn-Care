@@ -11,6 +11,14 @@ ul {
     background-color: #FDB813;
 }
 
+ll {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #A9A9A9;
+}
+
 body {
   margin: 40px;
 }
